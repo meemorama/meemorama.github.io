@@ -2,11 +2,12 @@
 title: Jeezum Crow
 email: mimi.roach@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-  Learning GitHub & Macdown from the hubby.  Hey, ".io" (which I just learned is a "top level domain," or "TLD" ) means British Indian Ocean Territory. 
+  Learning GitHub and MacDown from the hubby.  Hey, ".io" (that I just learned is a "top level domain," or "TLD" ) means British Indian Ocean Territory. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://meemorama.github.io" # the base hostname & protocol for your site
 twitter_username: meemorama
 github_username:  meemorama
+pinterest: kingston
 
 # Build settings
 markdown: kramdown
